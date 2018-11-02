@@ -7,7 +7,7 @@ git clone https://github.com/suraj9793/chat-server
 cd chat-server
 #Create a config file with pusher credentials
 touch config.json
-add following to the file:
+add following to the file:  
     {
         "instanceLocator": "YOUR_INSTANCELOCATOR",
         "key": "YOUR_INSTANCE_KEY"
