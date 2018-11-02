@@ -2,7 +2,7 @@
 A chat server
 
 # Clone this repository
-git clone https://github.com/suraj9793/React-web-chat
+git clone https://github.com/suraj9793/chat-server
 # Go into the repository
 cd chat-server
 # Install dependencies
